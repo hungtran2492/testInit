@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A5EEBE1C-108B-40D4-9373-13C90F2A7021}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CinemaApi/Model/User.cs">
+    <Files>
+      <File FileName="CinemaApi/Data/CinemaDbContext.cs" Line="17" Column="1" />
+      <File FileName="CinemaApi/Model/Reservation.cs" Line="1" Column="1" />
+      <File FileName="CinemaApi/Model/User.cs" Line="13" Column="1" />
+      <File FileName="CinemaApi/Controllers/UsersController.cs" Line="41" Column="42" />
+      <File FileName="CinemaApi/Controllers/MoviesController.cs" Line="22" Column="10" />
+      <File FileName="CinemaApi/Model/Movie.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CinemaApi" expanded="True">
+            <Node name="CinemaApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="User.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CinemaApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
